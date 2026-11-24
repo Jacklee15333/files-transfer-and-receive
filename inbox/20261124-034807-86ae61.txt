@@ -1,6 +1,0 @@
-@mistake
-```json
-{"pics": [{"text": "测试的意思", "img": "bg"}], "flow": ["一", "二"]}
-```
-测试用的、能用的画面设置。xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-ZBQ-END
