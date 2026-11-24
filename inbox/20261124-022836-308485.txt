@@ -1,6 +1,0 @@
-@ancient
-```json
-{"pics": [{"text": "古代的城"}]}
-```
-这是测试用的回复，第二次，还是缺，检查应该不过。xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-ZBQ-END
