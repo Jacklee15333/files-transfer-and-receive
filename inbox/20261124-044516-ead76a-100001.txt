@@ -1,5 +1,0 @@
-@convincing
-听|What do you hear?|I convincing it.|A. a|B. b|C. c|A|讲解
-@convinced
-听|What do you hear?|I convinced it.|A. a|B. b|C. c|A|讲解
-ZBQ-END
