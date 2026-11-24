@@ -1,0 +1,5 @@
+@theater
+听|What do you hear?|I theater it.|A. a|B. b|C. c|A|讲解
+@theatrical
+听|What do you hear?|I theatrical it.|A. a|B. b|C. c|A|讲解
+ZBQ-END
