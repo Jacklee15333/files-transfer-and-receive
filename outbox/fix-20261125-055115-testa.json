@@ -1,1 +1,0 @@
-{"name": "fix-20261125-055115-testa", "max": 3, "words": {"testa": {"try": 1, "ok": true, "todo": "", "t": 1795585888.3006206}, "testb": {"try": 1, "ok": false, "todo": "还要补：同义词辨析：testb 那张卡配一幅画（prefs.distinguish.pics 里写 \"testb\": 画）", "t": 1795585889.3025098}}, "done": false, "t": 1795585889.30319}
