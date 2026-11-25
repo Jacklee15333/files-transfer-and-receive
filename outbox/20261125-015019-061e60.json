@@ -1,1 +1,1 @@
-{"name": "20261125-015019-061e60", "max": 3, "words": {"testa": {"try": 1, "ok": true, "todo": "", "t": 1795571432.5211363}, "testb": {"try": 1, "ok": false, "todo": "还要补：同义词辨析：testb 那张卡配一幅画（prefs.distinguish.pics 里写 \"testb\": 画）", "t": 1795571433.523951}}, "done": false, "t": 1795571433.5244422}
+{"name": "20261125-015019-061e60", "max": 3, "words": {"testa": {"try": 1, "ok": true, "todo": "", "t": 1795571432.5211363}, "testb": {"try": 2, "ok": true, "todo": "", "t": 1795571444.5630648}}, "done": false, "t": 1795571444.563509}
