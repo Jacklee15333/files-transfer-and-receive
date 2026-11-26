@@ -1,1 +1,1 @@
-{"name": "pic-20261126-034343-make", "max": 3, "words": {"populous": {"try": 1, "ok": false, "todo": "还要补：第 1 个例句配音听不清：“Shanghai is a populous city.”念出来，语音识别听成了“Shanghai is a popularulous city.”，populous 没听出来（英文是美式女声念的，同一句每次念得都一样，再念也不行）。换一个例句：用更常见、更简短的说法，让 populous 念得清楚；英文 e***、中文 e***zh 和例句动画跟着改", "t": 1795664665.3666675}}, "done": false, "t": 1795664665.3679783}
+{"name": "pic-20261126-034343-make", "max": 3, "words": {"populous": {"try": 2, "ok": true, "todo": "", "t": 1795664690.1274004}}, "done": false, "t": 1795664690.1282222}
